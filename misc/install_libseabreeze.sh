@@ -1,5 +1,5 @@
 #!/bin/bash
-SEABREEZE_FILE="seabreeze-3.0.7.zip"
+SEABREEZE_FILE="seabreeze-3.0.7"
 
 SEABREEZE_FOLDER=$(basename $SEABREEZE_FILE .zip)
 SEABREEZE_URL="http://sourceforge.net/projects/seabreeze/files/SeaBreeze/source/"
